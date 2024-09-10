@@ -1,7 +1,7 @@
 # Page-builder-tool
 利用JS+jQuery+Boostrap製作一個FreeStore homepage的Page-builder-tool
 * 主要流程  
- * 修改Page-builder-tool樣式-> 製作自訂義 HTML widgets-> Page-builder-tool連接FreeStore homepage
+  * 修改Page-builder-tool樣式-> 製作自訂義 HTML widgets-> Page-builder-tool連接FreeStore homepage
 ## 主要功能
 * 編輯器頁面與FreeStore homepage頁面連接同步
 * 功能齊全的視覺化拖拉編輯器，可輕鬆快速建立頁面
@@ -14,7 +14,9 @@
 ## 自訂HTML widgets
 * 檔案上傳器:
   * 可拖拉顯示至頁面
-  * 元件可連接至 FreeStore
+  * 元件可連接至 FreeStore圖片管理庫
+  * 元件編輯視窗可更換圖片
+  * 元件編輯視窗可修改圖片大小 
 * 最新商品:
   * 可拖拉顯示至頁面
 * FAQ:
