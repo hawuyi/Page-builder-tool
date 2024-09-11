@@ -3,8 +3,8 @@
 * 主要流程  
   * 修改Page-builder-tool樣式、繁體化-> 製作自訂義 HTML widgets-> Page-builder-tool連接FreeStore homepage
 ## 主要功能
-* 編輯器頁面與FreeStore homepage頁面連接同步
 * 功能齊全的視覺化拖拉編輯器，可輕鬆快速建立頁面
+* 編輯器頁面與FreeStore homepage頁面連接同步
 * 支援原始碼編輯器，透過直接更新 HTML / CSS 來自訂頁面
 * 建立新的空白工作區來開始建立設計
 * 內建範本以供使用者做選擇
