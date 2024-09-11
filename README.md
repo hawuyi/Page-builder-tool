@@ -1,5 +1,5 @@
 # Page-builder-tool
-利用JS+jQuery+Boostrap製作一個FreeStore homepage的Page-builder-tool
+利用JS+jQuery+Boostrap製作一個FreeStore開店平台homepage的Page-builder-tool
 * 主要流程  
   * 修改Page-builder-tool樣式、繁體化-> 製作自訂義 HTML widgets-> Page-builder-tool連接FreeStore homepage
 ## 主要功能
