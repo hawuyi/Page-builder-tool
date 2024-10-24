@@ -38,10 +38,10 @@
   * 元件畫面每三秒變更另一組圖片
   * 元件編輯視窗可更換圖片
 ## 運用技術
-    1. PHP 7.3
+    1. jQuery
     2. Javascript
-    3. jQuery
-    4. Bootstrap
+    3. Bootstrap
+    4. PHP 7.3
     5. MySQL 管理資料庫
  ***
 ### 專案截圖
